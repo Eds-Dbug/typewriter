@@ -7,5 +7,5 @@ for (const char of sentence) {
     process.stdout.write(char);
   }, (time += 50)) // <= 1s delay to make it noticeable. Can dial it down later.
 }
-
+'d'
 
